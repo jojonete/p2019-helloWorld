@@ -1,2 +1,2 @@
 # p2019-helloWorld
-A hello world program, I guess
+A hello world program.
